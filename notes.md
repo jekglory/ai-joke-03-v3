@@ -126,7 +126,7 @@ No API key used or read at any point in this build.
 
 ## Commit
 Local repo: ~/workspace/makefun/ai-joke-03-v3/ (branch master, single commit).
-Commit SHA: (to be filled in).
+Commit SHA: 32a1ce748c077a667fb8edc15b1dc7e72980494f.
 Files: main.py, LICENSE, .makefun/owner.json.
 NOT pushed; GitHub repo NOT created — parent handles re-auth + push + submit.
 No API key used or printed at any point in this build (key used only by the
